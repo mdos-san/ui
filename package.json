@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mdos-san/ui/issues"
   },
-  "homepage": "https://github.com/mdos-san/ui#readme"
+  "homepage": "https://github.com/mdos-san/ui#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
 }
