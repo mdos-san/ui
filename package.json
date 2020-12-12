@@ -19,5 +19,8 @@
   "homepage": "https://github.com/mdos-san/ui#readme",
   "devDependencies": {
     "typescript": "^4.1.3"
+  },
+  "dependencies": {
+    "react": "^17.0.1"
   }
 }
